@@ -5,4 +5,4 @@ const Components = {
   Button
 };
 
-export Components;
+export default Components;
