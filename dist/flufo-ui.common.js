@@ -315,17 +315,14 @@ var component = normalizeComponent(
 
 /* harmony default export */ var Button = (component.exports);
 // CONCATENATED MODULE: ./src/components/index.js
-// import Vue from 'vue';
 
 var Components = {
   Button: Button
 };
-/* Object.keys(Components).forEach((name) => {
-  Vue.components(name, Components[name]);
-}); */
-
 /* harmony default export */ var components = (Components);
+
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
+/* concated harmony reexport Button */__webpack_require__.d(__webpack_exports__, "Button", function() { return Button; });
 
 
 /* harmony default export */ var entry_lib = __webpack_exports__["default"] = (components);
